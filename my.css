@@ -1,11 +1,11 @@
 body {
     background-image: url(UMDGlobe.gif);
-    background-color: lightcyan;
+    background-color: azure;
     font-family: "Trirong", sans-serif;
 }
 
 p {
-    background-color: gray;
+    background-color: lightgray;
 }
 
 table {

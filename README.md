@@ -8,7 +8,7 @@ My TODO List:
 Features:
 - [ ] make a separate resume page
 - [ ] write intro paragraph about me and my interests
-- [ ] add a showcase for my other codinng projects
+- [ ] add a showcase for my other coding projects
 - [ ] contact me page
 
 Code:
