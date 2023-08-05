@@ -1,0 +1,14 @@
+body {
+    background-image: url(UMDGlobe.gif);
+    background-color: lightcyan;
+    font-family: "Trirong", sans-serif;
+}
+
+p {
+    background-color: aqua;
+}
+
+table {
+    color: white;
+    background-color: brown;
+}
