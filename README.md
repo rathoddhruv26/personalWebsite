@@ -19,6 +19,6 @@ Code:
 - [ ] use express
 - [ ] add a scrolling top link bar
 - [ ] add a go back to home at the bottom of every page
-- [ ] add favicons
+- [x] add favicons
 - [ ] update or delete table
 - [ ] set up pictures folder
