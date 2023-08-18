@@ -1,14 +1,8 @@
 body {
-    /* background-image: url(UMDGlobe.gif); */
-    background-color: azure;
+    background-color: skyblue;
     font-family: "Trirong", sans-serif;
 }
 
 p {
-    background-color: rgb(205, 147, 147);
-}
-
-table {
-    color: white;
-    background-color: brown;
+    background-color: goldenrod;
 }
